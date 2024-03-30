@@ -1,0 +1,667 @@
+Start 12/01/06 13:43:05 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+	ImportMeshData( .\Chef\RealTime_00\PATROL_B.bn ) :NULL
+	ImportMeshData( .\Chef\RealTime_00\PATROL_R.bn ) :NULL
+	ImportMeshData( .\Chef\RealTime_00\Trans2.bn ) :NULL
+	ImportMeshData( .\Chef\RealTime_00\fight_b.bn ) :NULL
+	ImportMeshData( .\Chef\RealTime_00\fight_r.bn ) :NULL
+	ImportMeshData( .\Chef\RealTime_00\trans2.bn ) :NULL
+	ReadAnimationData( .\character\bs1\fight_l.ani ) :NULL
+	ReadAnimationData( .\chef\realtime_00\ani\bone\patrol_b.ani ) :NULL
+End
+Start 12/01/06 13:44:45 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 13:49:35 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 16:44:12 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 16:50:07 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 17:13:32 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+	ReadAnimationData( .\chef\realtime_00\ani\s_fight.ani ) :NULL
+End
+Start 12/01/06 18:13:03 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 18:15:22 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 18:16:39 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 18:21:12 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 18:22:32 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 18:31:53 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 18:33:04 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
+Start 12/01/06 18:43:40 
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\CRISTALBOX.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\Monster\MEMORIAGEM.EFF
+	Effect Not Found : .\CHEF\Monster.ini, .\Chef\Eff\monster\humbaba.EFF
+	ImportMeshData( ./character/monster/bone/DAGAN.BN ) :NULL
+	ImportMeshData( ./character/monster/bone/DAGNU.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/DUNGEON01_GUARD_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALAS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALA_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALBS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALB_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALCS2_GUARD_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_001.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_002.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_004.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_005.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_006.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_007.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_008.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_EXPENSIVE_009.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/NEUTRALC_WEAPON_003.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_COINEXCHANGE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_FORCE_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_POTION_000.BN ) :NULL
+	ImportMeshData( ./character/npc/bone/PLATFORM01_REQUEST_000.BN ) :NULL
+End
